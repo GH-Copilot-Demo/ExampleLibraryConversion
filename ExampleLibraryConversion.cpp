@@ -99,7 +99,7 @@ int main()
     systemInfo.System.ProcessorRevision = 11;
     systemInfo.System.ProductType = 12;
     
-    // Construct a 
+    // Construct an empty JSON document
     WDocument document(json::Type::kObjectType);
     auto allocator = document.GetAllocator();
 
