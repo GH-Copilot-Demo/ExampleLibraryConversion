@@ -1,0 +1,5 @@
+D:/repos/ExampleLibraryConversion/vcpkg_installed/x64-windows/vcpkg/blds/nlohmann-json/x64-windows-rel/CMakeFiles/edit_cache.dir
+D:/repos/ExampleLibraryConversion/vcpkg_installed/x64-windows/vcpkg/blds/nlohmann-json/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+D:/repos/ExampleLibraryConversion/vcpkg_installed/x64-windows/vcpkg/blds/nlohmann-json/x64-windows-rel/CMakeFiles/list_install_components.dir
+D:/repos/ExampleLibraryConversion/vcpkg_installed/x64-windows/vcpkg/blds/nlohmann-json/x64-windows-rel/CMakeFiles/install.dir
+D:/repos/ExampleLibraryConversion/vcpkg_installed/x64-windows/vcpkg/blds/nlohmann-json/x64-windows-rel/CMakeFiles/install/local.dir
