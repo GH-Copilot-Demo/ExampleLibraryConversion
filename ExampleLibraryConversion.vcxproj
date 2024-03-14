@@ -139,6 +139,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ExampleLibraryConversion.cpp" />
+    <ClCompile Include="ExampleParser.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md" />
